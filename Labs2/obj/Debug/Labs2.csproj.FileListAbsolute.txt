@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Desktop\HK2\C#2\Labs2\Labs2\bin\Debug\Labs2.exe.config
+C:\Users\Admin\OneDrive\Desktop\HK2\C#2\Labs2\Labs2\bin\Debug\Labs2.exe
+C:\Users\Admin\OneDrive\Desktop\HK2\C#2\Labs2\Labs2\bin\Debug\Labs2.pdb
+C:\Users\Admin\OneDrive\Desktop\HK2\C#2\Labs2\Labs2\obj\Debug\Labs2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\HK2\C#2\Labs2\Labs2\obj\Debug\Labs2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\HK2\C#2\Labs2\Labs2\obj\Debug\Labs2.exe
+C:\Users\Admin\OneDrive\Desktop\HK2\C#2\Labs2\Labs2\obj\Debug\Labs2.pdb
